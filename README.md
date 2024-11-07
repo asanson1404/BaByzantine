@@ -1,1 +1,1 @@
-# Babyzantine
+# Babyzantine - Bitcoin self-custodial cross-chain restaking
