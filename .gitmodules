@@ -1,3 +1,6 @@
 [submodule "babylon-evm"]
 	path = babylon-evm
 	url = https://github.com/linnnnnnh/babylon-evm.git
+[submodule "spv"]
+	path = spv
+	url = https://github.com/catalogfi/spv.git
