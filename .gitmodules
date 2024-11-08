@@ -7,3 +7,6 @@
 [submodule "babylon-byz"]
 	path = babylon-byz
 	url = https://github.com/Benoitded/babylon-byz.git
+[submodule "bitcoin-staking-relayer"]
+	path = bitcoin-staking-relayer
+	url = https://github.com/asanson1404/bitcoin-staking-relayer.git
